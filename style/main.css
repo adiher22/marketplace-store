@@ -10894,6 +10894,12 @@ footer p {
   margin-top: 16px;
 }
 
+.page-details h5 {
+  font-weight: normal;
+  font-size: 18px;
+  color: #0c0d36;
+}
+
 .page-details .store-gallery {
   margin-top: 20px;
 }
@@ -10944,6 +10950,24 @@ footer p {
   font-size: 16px;
   line-height: 180%;
   color: #525252;
+}
+
+.page-details .store-riview .media img {
+  max-width: 50px;
+}
+
+.page-details .store-riview .media-body {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  color: #525252;
+  margin-bottom: 20px;
+}
+
+.page-details .store-riview .media-body h5 {
+  font-weight: normal;
+  font-size: 16px;
+  color: #0c0d36;
 }
 
 .component-categories {
