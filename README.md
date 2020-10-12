@@ -1,11 +1,13 @@
 # BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
-
+Template ini dapat anda gunakan untuk memulai project berupa e-commerce.
+<p>
+    <img src="images/Marketplace-store.png">
+</p>
 ## Lisensi
 
 MIT License
 
-Copyright (c) 2020 Galih Pratama
+Copyright (c) 2020 Adi Hernawan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,6 +29,5 @@ SOFTWARE.
 
 <hr>
 
-Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
 
 Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
