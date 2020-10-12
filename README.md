@@ -1,4 +1,4 @@
-# BWAStore HTML Starter Template
+# Marketplace Store Template
 Template ini dapat anda gunakan untuk memulai project berupa e-commerce.
 <p>
     <img src="images/Marketplace.png">
