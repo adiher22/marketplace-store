@@ -2,8 +2,9 @@
 Template ini dapat  digunakan untuk memulai project berupa e-commerce.
 
 <hr>
-## Frontend 
-<br>
+## Frontend
+
+
 <p>
     <img src="images/Marketplace.png">
 </p><br>
