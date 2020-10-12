@@ -2,22 +2,18 @@
 Template ini dapat  digunakan untuk memulai project berupa e-commerce.
 
 <hr>
-# Frontend 
+## Frontend 
 
 <p>
     <img src="images/Marketplace.png">
-</p>
+</p><br>
 <p>
     <img src="images/market-details.png">
-</p>
-<p>
-    <img src="images/market-register.png">
-</p>
+</p><br>
 <p>
     <img src="images/market-checkout.png">
 </p>
 <hr>
-
 ## Lisensi
 
 MIT License
