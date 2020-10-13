@@ -11386,6 +11386,22 @@ footer p {
   color: #0c0d36;
 }
 
+.card-dashboard-product {
+  margin-bottom: 15px;
+}
+
+.card-dashboard-product .card-body .product-title {
+  font-weight: normal;
+  font-size: 18px;
+  color: #0c0d36;
+}
+
+.card-dashboard-product .card-body .product-category {
+  font-weight: normal;
+  font-size: 16px;
+  color: #c5c5c5;
+}
+
 .slide-fade-enter-active {
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
