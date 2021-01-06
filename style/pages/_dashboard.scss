@@ -9,7 +9,7 @@
         min-height: 100vh;
         margin-left: -15rem;
         transition: margin 0.25s ease-out;
-
+        background: #343a40;
         .sidebar-heading {
             padding: 0.875rem 1.25rem;
             font-size: 1.2rem;
@@ -17,7 +17,7 @@
         }
         .list-group {
             width: 15rem;
-
+         
         }
 
     }
@@ -44,15 +44,15 @@
         border: 0;
         font-size: 16px;
         color: #c5c5c5;
-
+        background: #343a40;
         &.active {
             background: linear-gradient( 
             270deg,
-             rgba(255, 113, 88, 0.32) 2%,
+             rgba(88, 174, 255, 0.32) 2%,
              rgba(255, 255, 255, 0) 100%
            );
-           border-right: 4px solid #ff7158;
-           color: #0c0d36;
+           border-right: 4px solid #007bff;
+           color: #ffffff;
         }
       
     }
