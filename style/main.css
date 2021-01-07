@@ -11159,6 +11159,7 @@ footer p {
   margin-left: -15rem;
   -webkit-transition: margin 0.25s ease-out;
   transition: margin 0.25s ease-out;
+  background: #343a40;
 }
 
 .page-dashboard #sidebar-wrapper .sidebar-heading {
@@ -11193,13 +11194,14 @@ footer p {
   border: 0;
   font-size: 16px;
   color: #c5c5c5;
+  background: #343a40;
 }
 
 .page-dashboard .list-group-item.active {
-  background: -webkit-gradient(linear, right top, left top, color-stop(2%, rgba(255, 113, 88, 0.32)), to(rgba(255, 255, 255, 0)));
-  background: linear-gradient(270deg, rgba(255, 113, 88, 0.32) 2%, rgba(255, 255, 255, 0) 100%);
-  border-right: 4px solid #ff7158;
-  color: #0c0d36;
+  background: -webkit-gradient(linear, right top, left top, color-stop(2%, rgba(88, 174, 255, 0.32)), to(rgba(255, 255, 255, 0)));
+  background: linear-gradient(270deg, rgba(88, 174, 255, 0.32) 2%, rgba(255, 255, 255, 0) 100%);
+  border-right: 4px solid #007bff;
+  color: #ffffff;
 }
 
 @media (min-width: 768px) {
